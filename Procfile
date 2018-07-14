@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT dusan_crowdbotics_312.wsgi:application
